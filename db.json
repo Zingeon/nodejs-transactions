@@ -1,0 +1,196 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "value": "$2000"
+    },
+    {
+      "id": 2,
+      "value": "$2000"
+    },
+    {
+      "id": 3,
+      "value": "$5000"
+    },
+    {
+      "id": 4,
+      "value": "$100500"
+    },
+    {
+      "id": 5,
+      "value": "$100500"
+    },
+    {
+      "id": 6,
+      "value": "$100500"
+    },
+    {
+      "id": 7,
+      "value": "800"
+    },
+    {
+      "id": 8,
+      "value": "800"
+    },
+    {
+      "id": 9,
+      "value": "800"
+    },
+    {
+      "id": 10,
+      "value": "800"
+    },
+    {
+      "id": 11,
+      "value": "$500000"
+    },
+    {
+      "id": 12,
+      "value": "$500000"
+    },
+    {
+      "id": 13,
+      "value": "$500000"
+    },
+    {
+      "id": 14,
+      "value": "$500000"
+    },
+    {
+      "id": 15,
+      "value": "$99991"
+    },
+    {
+      "id": 16,
+      "value": "$99994"
+    },
+    {
+      "id": 17,
+      "value": 100
+    },
+    {
+      "id": 18,
+      "value": 100
+    },
+    {
+      "id": 19,
+      "value": 20
+    },
+    {
+      "id": 20,
+      "value": 200
+    },
+    {
+      "id": 21,
+      "value": 150
+    },
+    {
+      "id": 22,
+      "value": 1500
+    },
+    {
+      "id": 23,
+      "value": 1500
+    },
+    {
+      "id": 24,
+      "value": 1500
+    },
+    {
+      "id": 25,
+      "value": 1500
+    },
+    {
+      "id": 26,
+      "value": 1500
+    },
+    {
+      "id": 27,
+      "value": 1500
+    },
+    {
+      "id": 28,
+      "value": 130
+    }
+  ],
+  "account": {
+    "value": 9000
+  },
+  "transactionsHistory": [
+    {
+      "value": "$99991",
+      "id": 15,
+      "operation": "add"
+    },
+    {
+      "value": "$99994",
+      "id": 16,
+      "operation": "add"
+    },
+    {
+      "id": 16,
+      "value": "$99994",
+      "operation": "get"
+    },
+    {
+      "value": 100,
+      "id": 17,
+      "operation": "add"
+    },
+    {
+      "value": 100,
+      "id": 18,
+      "operation": "add"
+    },
+    {
+      "value": 20,
+      "id": 19,
+      "operation": "subtract"
+    },
+    {
+      "value": 200,
+      "id": 20,
+      "operation": "subtract"
+    },
+    {
+      "value": 150,
+      "id": 21,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 22,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 23,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 24,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 25,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 26,
+      "operation": "add"
+    },
+    {
+      "value": 1500,
+      "id": 27,
+      "operation": "add"
+    },
+    {
+      "value": 130,
+      "id": 28,
+      "operation": "subtract"
+    }
+  ]
+}
